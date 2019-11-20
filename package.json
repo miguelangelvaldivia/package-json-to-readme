@@ -29,7 +29,7 @@
   },
   "preferGlobal": true,
   "devDependencies": {
-    "mocha": "^2.1.0",
+    "mocha": "^6.2.2",
     "nixt": "^0.3.0",
     "standard": "^8.6.0"
   },
